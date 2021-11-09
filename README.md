@@ -50,3 +50,4 @@ Key concepts covered:
 - useRef()
 - useCallback()
 - styled components
+- custom hook `useinterval.js` by: Dan Abramov
